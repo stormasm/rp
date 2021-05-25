@@ -2,7 +2,7 @@
 ### ast directory
 
 This is a copy of the ast directory from rustpython   
-To run it
+
 ```
 ./asdl.sh
 ```
