@@ -7,7 +7,13 @@ To run it
 ./asdl.sh
 ```
 
-### crawl directory is copy of crawl_sourcecode.py
+### crawl directory
+
+This is a copy of crawl_sourcecode.py from rustpython
+
+```
+p crawl_sourcecode.py ex00.py
+```
 
 ### csc directory
 
