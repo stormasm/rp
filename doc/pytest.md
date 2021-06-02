@@ -1,0 +1,1 @@
+pytest -vk strings
