@@ -2,6 +2,7 @@
 To figure out where the logging is
 ```rust
 rg logger
+rg env_logger
 ```
 
 RustPython uses env_logger

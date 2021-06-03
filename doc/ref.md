@@ -1,6 +1,10 @@
 
 These are the references for everything having to do with Python compilation.
 
+### DESOSA
+
+[High Level Architecture](https://2021.desosa.nl/projects/rustpython/posts/md-architecture/)
+
 ### ASDL
 
 [The Zephyr Abstract Syntax Description Language by Wang](https://www.cs.princeton.edu/~appel/papers/asdl97.pdf)
