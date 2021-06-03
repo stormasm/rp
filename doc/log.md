@@ -1,4 +1,17 @@
 
+```
+RustPython$ rg env_logger::init
+src/lib.rs
+70:    env_logger::init();
+
+examples/parse_folder.rs
+21:    env_logger::init();
+
+examples/dis.rs
+23:    env_logger::init();
+RustPython$
+```
+
 To figure out where the logging is
 ```rust
 rg logger
